@@ -1,4 +1,4 @@
-import zuriLogo from "../assets/img/zuri-intern.svg";
+import zuriLogo from "../assets/img/zuri-intern.png";
 import i4g from "../assets/img/ingressive.png";
 import slack from "../assets/img/slack-icon.jpg";
 import github from "../assets/img/github.png";
