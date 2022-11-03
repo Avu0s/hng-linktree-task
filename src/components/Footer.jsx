@@ -1,7 +1,7 @@
-import zuriLogo from "../assets/img/zuri-intern.png";
-import i4g from "../assets/img/ingressive.png";
-import slack from "../assets/img/slack-icon.jpg";
-import github from "../assets/img/github.png";
+import zuriLogo from "../assets/img/zuri-intern.svg";
+import i4g from "../assets/img/I4G.svg";
+import slack from "../assets/img/slack.svg";
+import github from "../assets/img/github.svg";
 
 function Footer() {
   return (
@@ -9,7 +9,7 @@ function Footer() {
       <div className="slack-git">
         <img src={slack} alt="slack logo" height="25px" />
         <a href="https://github.com/Avu0s">
-          <img src={github} alt=" github logo" height="22px" />
+          <img src={github} alt=" github logo" height="25px" />
         </a>
       </div>
       <hr />

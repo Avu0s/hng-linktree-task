@@ -1,6 +1,7 @@
 function Links(){
     return(
         <div className="links">
+        <a href="#" id="contact">Contact</a>  
         <a href="https://twitter.com/avosking" id="twitter">Twitter Link</a>
         <a href="https://training.zuri.team/" id="btn__zur">Zuri Team</a>
         <a href="http://books.zuri.team/" id="books">Zuri Books</a>

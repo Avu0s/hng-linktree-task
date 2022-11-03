@@ -24,6 +24,9 @@ body{
     right: 0;
     top:0;
 }
+#share{
+    display: none;
+}
 #profile__img{
     border-radius: 50%;
 }
@@ -78,8 +81,11 @@ hr{
     body{
         max-width: 600px;
     }
-    #mshare{
+    #options{
         display: none;
+    }
+    #share{
+        display: block;
     }
     .links a{
         width: 600px;
